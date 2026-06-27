@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Schatten der Vergangenheit
+
+This log tracks the cryptographic history and versioning for the song **Schatten der Vergangenheit** (schatten-der-vergangenheit).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:44:55.896607 | `v1` | `68e71007354975c79ce6c90ec5049f06419327767b66ec1bca9218927d38c496` | `28ee95f2f41a466d8549c76198932609d383faa850cc71ee8740cfc4e2fdb6f1` | `2026-06-28_schatten-der-vergangenheit-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
