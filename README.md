@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schatten-der-vergangenheit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Schatten der Vergangenheit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-der-vergangenheit/) |
+| **Get License** | [Music Rights & Licensing for Schatten der Vergangenheit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-der-vergangenheit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schatten der Vergangenheit im Rückspiegel verblasst
+> Spür den Drill-Beat, Baby, wie er zu uns passt
+> Neonlichter spiegeln sich in deinem Dior
+> Komm ein bisschen näher, flüster' mir ins Ohr
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
